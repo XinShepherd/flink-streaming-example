@@ -48,7 +48,7 @@ under the License.
 		<flink.version>1.7.0</flink.version>
 		<scala.binary.version>2.11</scala.binary.version>
 		<scala.version>2.11.12</scala.version>
-		<jackson.version>2.9.7</jackson.version>
+		<jackson.version>2.9.8</jackson.version>
 	</properties>
 
 	<dependencies>
